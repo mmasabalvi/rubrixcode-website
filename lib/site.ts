@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "RubrixCode",
-  url: "https://www.rubrixcode.com",
+  url: "https://rubrixcode.netlify.app/",
   email: "support@rubrixcode.com",
   location: "Islamabad, Pakistan",
   logo: "/assets/SVG/Asset 26.svg",
