@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# next
+.next
+out
+
+# production
+build
+
+# local env
+.env*.local
+
+# logs
+*.log
+
+# local visual QA screenshots
+*-final.png
+*-heading-*.png
+
+# local QA captures
+.qa
+
+# system
+.DS_Store
+Thumbs.db

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Lawyer Workspace product preview</title>
+  <desc id="desc">A polished legal workspace dashboard with case management, hearings, documents, and client activity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fdff"/>
+      <stop offset="0.52" stop-color="#eaf8ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="nav" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2b4e"/>
+      <stop offset="1" stop-color="#09385f"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#0d2b4e" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="1035" cy="110" r="180" fill="#00bfff" opacity="0.1"/>
+  <circle cx="140" cy="670" r="220" fill="#00bfff" opacity="0.08"/>
+  <g filter="url(#shadow)">
+    <rect x="72" y="74" width="1056" height="612" rx="30" fill="#fff"/>
+    <rect x="72" y="74" width="1056" height="74" rx="30" fill="url(#nav)"/>
+    <rect x="72" y="118" width="1056" height="30" fill="url(#nav)"/>
+    <circle cx="112" cy="111" r="9" fill="#00bfff"/>
+    <circle cx="142" cy="111" r="9" fill="#ffffff" opacity="0.62"/>
+    <circle cx="172" cy="111" r="9" fill="#ffffff" opacity="0.38"/>
+    <text x="218" y="118" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="26" font-weight="800">Lawyer Workspace</text>
+    <rect x="898" y="96" width="166" height="32" rx="16" fill="#00bfff"/>
+    <text x="926" y="118" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="800">New Consultation</text>
+    <rect x="102" y="180" width="224" height="462" rx="22" fill="#f4f7fa" stroke="#dce7ef"/>
+    <text x="132" y="226" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="16" font-weight="800">Case Rooms</text>
+    <rect x="132" y="258" width="164" height="42" rx="13" fill="#0d2b4e"/>
+    <text x="154" y="285" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Active Cases</text>
+    <rect x="132" y="318" width="164" height="42" rx="13" fill="#ffffff" stroke="#dce7ef"/>
+    <text x="154" y="345" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Documents</text>
+    <rect x="132" y="378" width="164" height="42" rx="13" fill="#ffffff" stroke="#dce7ef"/>
+    <text x="154" y="405" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Hearings</text>
+    <rect x="132" y="502" width="164" height="98" rx="18" fill="#e8f8ff" stroke="#a8e9ff"/>
+    <text x="154" y="536" fill="#00668a" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="800">Next Hearing</text>
+    <text x="154" y="566" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="22" font-weight="900">09:30 AM</text>
+    <text x="154" y="588" fill="#333" font-family="Poppins, Arial, sans-serif" font-size="12" font-weight="600">Civil Court Room 3</text>
+    <rect x="362" y="180" width="456" height="206" rx="22" fill="#ffffff" stroke="#dce7ef"/>
+    <text x="394" y="226" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="22" font-weight="900">Case Pipeline</text>
+    <rect x="394" y="260" width="108" height="84" rx="18" fill="#e8f8ff"/>
+    <rect x="524" y="260" width="108" height="84" rx="18" fill="#f4f7fa"/>
+    <rect x="654" y="260" width="108" height="84" rx="18" fill="#f4f7fa"/>
+    <text x="422" y="293" fill="#00668a" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="800">Review</text>
+    <text x="556" y="293" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="800">Filed</text>
+    <text x="683" y="293" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="800">Closed</text>
+    <text x="425" y="326" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="900">18</text>
+    <text x="559" y="326" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="900">32</text>
+    <text x="687" y="326" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="900">11</text>
+    <path d="M397 360 C470 332 520 370 585 344 C652 318 702 356 764 330" fill="none" stroke="#00bfff" stroke-width="8" stroke-linecap="round"/>
+    <rect x="362" y="418" width="456" height="224" rx="22" fill="#ffffff" stroke="#dce7ef"/>
+    <text x="394" y="462" fill="#0d2b4e" font-family="Poppins, Arial, sans-serif" font-size="20" font-weight="900">Document Vault</text>
+    <rect x="394" y="494" width="372" height="34" rx="10" fill="#f4f7fa"/>
+    <rect x="394" y="548" width="318" height="34" rx="10" fill="#f4f7fa"/>
+    <rect x="394" y="602" width="348" height="34" rx="10" fill="#f4f7fa"/>
+    <rect x="840" y="180" width="254" height="462" rx="22" fill="#0d2b4e"/>
+    <text x="874" y="226" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="20" font-weight="900">Client Activity</text>
+    <rect x="874" y="260" width="184" height="74" rx="18" fill="#ffffff" opacity="0.12"/>
+    <rect x="874" y="360" width="184" height="74" rx="18" fill="#ffffff" opacity="0.12"/>
+    <rect x="874" y="460" width="184" height="74" rx="18" fill="#ffffff" opacity="0.12"/>
+    <circle cx="910" cy="297" r="15" fill="#00bfff"/>
+    <circle cx="910" cy="397" r="15" fill="#5ee6a8"/>
+    <circle cx="910" cy="497" r="15" fill="#f7b955"/>
+    <text x="940" y="302" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Contract uploaded</text>
+    <text x="940" y="402" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Client approved</text>
+    <text x="940" y="502" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="700">Invoice pending</text>
+  </g>
+</svg>
